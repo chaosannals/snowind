@@ -1,5 +1,7 @@
 # [snowind](https://github.com/chaosannals/snowind)
 
+基于 Canvas 的雪花效果。
+
 ## 使用
 
 引入 build 目录下的 snowind.js 文件，并实例化 Snowind 对象即可。
