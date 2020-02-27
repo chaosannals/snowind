@@ -22,7 +22,8 @@ const configuration = {
             'process.env': {
                 NODE_ENV: process.env.NODE_ENV,
             }
-        })
+        }),
+        new webpack.BannerPlugin('https://github.com/chaosannals/snowind copyright © 2020 Chen Shen Chao')
     ],
 };
 

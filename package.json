@@ -2,7 +2,6 @@
   "name": "snowind",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "author": {
     "name": "chaosannals",
     "email": "chaosannals@outlook.com"
@@ -12,6 +11,7 @@
     "url": "https://github.com/chaosannals/snowind/issues"
   },
   "homepage": "https://github.com/chaosannals/snowind#readme",
+  "main": "main/snowind.js",
   "dependencies": {
     "core-js": "^3.6.4"
   },
