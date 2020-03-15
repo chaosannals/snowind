@@ -2,7 +2,7 @@
 
 基于 Canvas 的雪花效果。
 
-![Demo](https://raw.githubusercontent.com/chenshenchao/pluck/master/snowind.gif)
+![Demo](https://raw.githubusercontent.com/chaosannals/snowind/master/snowind.gif)
 
 ## 使用
 
